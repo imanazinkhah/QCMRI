@@ -15,7 +15,7 @@ A software for recording, storing and reporting quality control (QC) results in 
 # System Requirements
 - Windows 8 and ...
 - .NET framework 4.7
-- MS Access
+-  MS Access
 
 
 # Installation
